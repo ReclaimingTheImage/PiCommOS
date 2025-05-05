@@ -39,6 +39,20 @@ Just a secure, self-defending system **you own completely**.
 ---
 
 ## 📦 Getting Started
+## 📚 Documentation
+
+- 🔐 [Encrypted USB Config Example](docs/usb_config_example.md)  
+   Learn how to create, encrypt, and use a secure USB setup file.
+
+- 🛠 [Build PiCommOS from Source](docs/build_from_source.md)  
+   Instructions for compiling your own reproducible `.img` file.
+
+- 🌐 [Networking Options: WireGuard & Yggdrasil](docs/networking_options.md)  
+   Overview of supported VPNs and mesh networking setup.
+
+- 🧱 [PiCommOS Security Model](docs/security_model.md)  
+   Understand the privacy, encryption, and trust assumptions.
+
 
 ### 🧾 Requirements
 - Raspberry Pi 4 (4GB or 8GB recommended)  
