@@ -40,6 +40,11 @@ Just a secure, self-defending system **you own completely**.
 
 ## 📦 Getting Started
 ## 📚 Documentation
+---
+
+📘 **View Full Documentation Site:**  
+[https://reclaimingtheimage.github.io/PiCommOS](https://reclaimingtheimage.github.io/PiCommOS)
+
 
 - 🔐 [Encrypted USB Config Example](docs/usb_config_example.md)  
    Learn how to create, encrypt, and use a secure USB setup file.
